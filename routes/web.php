@@ -30,7 +30,7 @@ Route::post('/contact', function () {
     echo "Email: ". $data['email']. '<br>';
     echo "body: " . $data['body'];
 
-    
+
 
 
 });
